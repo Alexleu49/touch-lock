@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Touch Lock</string>
+    <string name="switch_floating_button">Плавающая кнопка</string>
+    <string name="floating_button_desc">Показывать плавающую кнопку блокировки поверх всех приложений</string>
+    <string name="overlay_permission_title">Требуется разрешение</string>
+    <string name="overlay_permission_desc">Для отображения кнопки и блокировки сенсора приложению необходимо разрешение на наложение поверх других окон.</string>
+    <string name="grant_permission">Предоставить доступ</string>
+    <string name="how_it_works_title">Как это работает</string>
+    <string name="step1_title">1. Блокировка в 1 касание</string>
+    <string name="step1_desc">Нажмите на плавающую иконку замочка в любом приложении — весь сенсор экрана мгновенно отключится от случайных нажатий.</string>
+    <string name="step2_title">2. Разблокировка</string>
+    <string name="step2_desc">Повторное нажатие на кнопку вернет обычный ввод.</string>
+    <string name="step3_title">3. Умное скрытие через 10 сек</string>
+    <string name="step3_desc">Если при заблокированном экране не трогать кнопку 10 секунд, она исчезнет. Для вызова кнопки дважды коснитесь экрана в любом месте!</string>
+    <string name="test_mode_title">Тест блокировки в приложении</string>
+    <string name="test_mode_desc">Попробуйте заблокировать и разблокировать прямо здесь</string>
+    <string name="notification_title">Touch Lock активен</string>
+    <string name="notification_desc">Нажмите для управления сервисом блокировки экрана</string>
+    <string name="status_active">Сервис запущен</string>
+    <string name="status_inactive">Сервис выключен</string>
+</resources>

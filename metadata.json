@@ -1,0 +1,6 @@
+{
+  "name": "Touch Lock",
+  "description": "Плавающая кнопка поверх экрана для мгновенной блокировки сенсорного ввода с автоскрытием и вызовом по двойному тапу.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
